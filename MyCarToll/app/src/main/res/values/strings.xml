@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Car Toll</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="api_root_rel">http://192.168.5.110:3000</string>
+    <string name="api_root_dev">http://192.168.0.3:3000</string>
+    <string name="balance">Balance</string>
+    <string name="license_no">License No</string>
+    <string name="car_type">Car Type</string>
+    <string name="rfid">RFID:</string>
+    <string name="time">Time:</string>
+    <string name="toll_location">Toll Location</string>
+    <string name="amount">Amount</string>
+    <string name="home">Home</string>
+    <string name="cars">Cars</string>
+    <string name="logs">Logs</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="account">Account</string>
+    <string name="address">Address</string>
+</resources>

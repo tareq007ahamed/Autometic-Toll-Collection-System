@@ -43,8 +43,8 @@ For API:
 
 ## Android Application
 
-![Screenshot_20181114-190026](./assets/Screenshot_20181114-190026.png) ![](./assets/Screenshot_20181114-190040.png)
+![Screenshot_20181114-190026](./assets/Screenshot_20181114-190026.png) 
 
 ![Screenshot_20181114-190051](./assets/Screenshot_20181114-190051.png) ![Screenshot_20181114-190104](./assets/Screenshot_20181114-190104.png)
 
-![Screenshot_20181114-190112](./assets/Screenshot_20181114-190112.png) 
+
